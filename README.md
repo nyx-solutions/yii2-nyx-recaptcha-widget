@@ -2,7 +2,13 @@ Google reCAPTCHA widget for Yii2
 ================================
 Based on Google reCaptcha API 2.0 and 3.0.
 
-[![Packagist](https://img.shields.io/packagist/dt/himiklab/yii2-recaptcha-widget.svg)]() [![Packagist](https://img.shields.io/packagist/v/himiklab/yii2-recaptcha-widget.svg)]()  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Latest Stable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx-recaptcha-widget/v/stable)](https://packagist.org/packages/nyx-solutions/yii2-nyx-recaptcha-widget)
+[![Total Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-recaptcha-widget/downloads)](https://packagist.org/packages/nyx-solutions/yii2-nyx-recaptcha-widget)
+[![Latest Unstable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx-recaptcha-widget/v/unstable)](https://packagist.org/packages/nyx-solutions/yii2-nyx-recaptcha-widget)
+[![License](https://poser.pugx.org/nyx-solutions/yii2-nyx-recaptcha-widget/license)](https://packagist.org/packages/nyx-solutions/yii2-nyx-recaptcha-widget)
+[![Monthly Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-recaptcha-widget/d/monthly)](https://packagist.org/packages/nyx-solutions/yii2-nyx-recaptcha-widget)
+[![Daily Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-recaptcha-widget/d/daily)](https://packagist.org/packages/nyx-solutions/yii2-nyx-recaptcha-widget)
+[![composer.lock](https://poser.pugx.org/nyx-solutions/yii2-nyx-recaptcha-widget/composerlock)](https://packagist.org/packages/nyx-solutions/yii2-nyx-recaptcha-widget)
 
 Upgrade to 2.x version
 ------------
