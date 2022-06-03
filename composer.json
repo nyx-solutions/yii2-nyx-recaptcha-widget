@@ -9,6 +9,7 @@
     "widget"
   ],
   "type": "yii2-extension",
+  "version": "3.0.0",
   "license": "MIT",
   "support": {
     "source": "https://github.com/himiklab/yii2-recaptcha-widget",
